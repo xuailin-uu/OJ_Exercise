@@ -11,7 +11,7 @@ public class Main {
             k+=1;
 
         }
-        System.out.println(k+p);
+        System.out.println(k+p+1);
 
 
 
